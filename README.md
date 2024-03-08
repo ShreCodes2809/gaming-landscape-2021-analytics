@@ -1,4 +1,4 @@
-# CUBoulder_CSCI5502_DataMining_Project
+# CUBoulder CSCI5502 Data Mining Project
 
 This is a Data Mining Project Repo.
 
@@ -13,8 +13,8 @@ Authors   : Junsoo Jung          /Adwait Mahajan          /Shreyash Sahare
 
 
 
-Data Explanation 
-===
+## Data Explanation 
+
 
 Name	: The name of the games.\
 developers_publishers	: Devlopers of the games and publisher of the games. \
