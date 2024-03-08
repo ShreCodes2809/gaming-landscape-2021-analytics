@@ -5,7 +5,7 @@ This is a Data Mining Project Repo.
 
 School Name : University of Colorado, Boulder
 
-Author :  Junsoo Jung
-          Adwait Mahajan
+Author :  Junsoo Jung\
+          Adwait Mahajan\
           Shreyash Sahare
 
