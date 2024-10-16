@@ -31,13 +31,6 @@ This project, conducted under **Professor X** as part of the course **"Y"** at t
   - **Random Forest:** For robust ensemble-based predictions.  
   - **Artificial Neural Networks (ANN):** To capture intricate, non-linear patterns. ANN performed best with a **Mean Squared Logarithmic Error (MSLE) of 0.48**.
 
-## Project Structure  
-- **`/data/`** – Contains raw and cleaned datasets.  
-- **`/notebooks/`** – Jupyter notebooks detailing the data preprocessing and model training steps.  
-- **`/models/`** – Serialized machine learning models (pickle files).  
-- **`/visualizations/`** – Visual plots of trends and model performance metrics.  
-- **`/report/`** – Final project report in ACM format.
-
 ## Results  
 - **Top-performing Model:** ANN with MSLE of **0.48**.  
 - **Comparison of Model Performance:**  
