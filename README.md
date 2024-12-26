@@ -1,7 +1,7 @@
 # Data Driven Exploration of the Gaming Landscape in 2021
 
 ## Project Overview  
-This project, conducted under **Professor X** as part of the course **"Y"** at the University of Colorado Boulder, provides a data-driven analysis of significant trends and player behavior in the gaming industry for 2021. The study uses web scraping, data preprocessing, and machine learning models to predict the number of game owners based on various attributes. This project offers insights into game dynamics, industry trends, and player preferences to facilitate better decision-making in the gaming sector.
+This project provides a data-driven analysis of significant trends and player behavior in the gaming industry for 2021. The study uses web scraping, data preprocessing, and machine learning models to predict the number of game owners based on various attributes. This project offers insights into game dynamics, industry trends, and player preferences to facilitate better decision-making in the gaming sector.
 
 ## Data Explanation  
 - **Name:** The name of the game.  
